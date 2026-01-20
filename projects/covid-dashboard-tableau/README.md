@@ -9,7 +9,7 @@ This project analyzes COVID-19 data using SQL, Excel, and Tableau. It provides i
 - **Links**: Tableau Public link.
 
 ## Tableau Public
-[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/YourDashboardName/Sheet1)
+[View the interactive dashboard on Tableau Public]([https://public.tableau.com/views/YourDashboardName/Sheet1](https://public.tableau.com/app/profile/krish.prajapati1977/viz/CovidDashboard_17689311861470/Dashboard1?publish=yes))
 
 ## Queries
 1. Total cases, total deaths, and death percentage by continent.
